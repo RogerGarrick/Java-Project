@@ -8,7 +8,7 @@ public class TestNhanVienDAO {
 
     public static void main(String[] args) {
 
-        /* test insert*/
+        /* test insert ......*/
  
         NhanVien nhanvien1 = new NhanVien("112", "Quang Trung","06/06/1997", "Nam", "0374974254", "212 thạnh", "Quang98", "1234");
         NhanVien nhanvien4 = new NhanVien("118", "Quang Trung","06/06/1997", "Nam", "0374974254", "212 thạnh", "Quang98", "1234");
